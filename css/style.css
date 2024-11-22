@@ -57,13 +57,53 @@ nav a{
 .header{
 
     background-color: #FFF8F3;
+    background-image: url(/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 600px;
+   
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    
     display: flex;
-}
-.images{
-    width: 500px;
-    height: auto;
 
 }
+
+
+}
+.banner-btn{
+    padding: 30px 30px 30px 80px;
+
+}
+.about{
+    padding: 130;
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    margin: 130px 0px;
+
+    
+}
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.section-description{
+    text-align: center;
+    color: #757575;
+   
+}
+.main{
+     width: 700px;
+     border-radius: 10px;
+     margin: 0 auto;
+     
+
+}
+.about-info{
+    display: flex;
+    justify-content: space-between;
+}
+ 
