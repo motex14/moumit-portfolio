@@ -153,5 +153,27 @@ main section{
 .download-cv{
     text-align: center;
     margin-top: 50px;
-    
+
+}
+footer{
+    display: flex;
+    margin-top: 100px;
+    background: blanchedalmond;
+    padding: 140px 82px;
+}
+.fotter-column{
+    width: 50%;
+    text-align: center;
+    gap: 50px;
+  
+}
+.input{
+    border: 0;
+    margin: 10px;
+    height: 40px;
+    border-radius: 15px;
+    text-align: center;
+}
+#massage{
+    padding: 20px;
 }
